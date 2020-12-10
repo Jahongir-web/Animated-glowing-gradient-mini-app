@@ -84,11 +84,12 @@ body {
 }
 
 .result-box {
-  color: #ffffff;
+  color: green;
   width: 300px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
   font-size: 24px;
+  font-weight: 700;
   text-align: center;
 }
